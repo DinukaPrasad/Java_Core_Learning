@@ -19,7 +19,7 @@
 
 Hi, I'm **Dino** 👋
 
-I'm a Software Engineering student at **Cardiff Metropolitan University (United Kindom)**, building a strong foundation in backend development and cloud engineering. I created this bootcamp as my personal learning roadmap — and now I'm sharing it here so others can benefit from the same structured approach.
+I'm a Software Engineering student at **Cardiff Metropolitan University (United Kingdom)**, building a strong foundation in backend development and cloud engineering. I created this bootcamp as my personal learning roadmap — and now I'm sharing it here so others can benefit from the same structured approach.
 
 | | |
 |---|---|
